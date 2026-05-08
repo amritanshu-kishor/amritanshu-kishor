@@ -9,15 +9,14 @@ My technical stack includes Python, JavaScript, AI, Sckit-Learn, Java, OOPS, and
 
 ###
 
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div> -->
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/amritanshu-kishor/amritanshu-kishor/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/amritanshu-kishor/amritanshu-kishor/languages-output/languages.svg" height="150" alt="languages graph"  />
+ </div>
 
 ###
 
-<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
-<img align="right" height="150" src="D:\github\images\pic.png"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/amritanshu-kishor/amritanshu-kishor/main/pic.png"  />
 
 ###
 
@@ -59,6 +58,6 @@ My technical stack includes Python, JavaScript, AI, Sckit-Learn, Java, OOPS, and
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/amritanshu-kishor/amritanshu-kishor/snake-output/snake.svg" alt="Snake animation" />
 
 ###
