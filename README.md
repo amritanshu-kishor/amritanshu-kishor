@@ -9,13 +9,13 @@ My technical stack includes Python, JavaScript, AI, Sckit-Learn, Java, OOPS, and
 
 ###
 
- <div align="center">
-  <!-- <img src="https://raw.githubusercontent.com/amritanshu-kishor/amritanshu-kishor/stats-output/stats.svg" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=amritanshu-kishor&show_icons=true&theme=tokyonight" height="150"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amritanshu-kishor&theme=tokyonight&hide_border=true" />
+</p>
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu-kishor&layout=compact&theme=tokyonight" height="150"/>
-  <!-- <img src="https://raw.githubusercontent.com/amritanshu-kishor/amritanshu-kishor/languages-output/languages.svg" height="150" alt="languages graph"  /> -->
- </div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amritanshu-kishor&theme=tokyo-night&hide_border=true" />
+</p>
 
 ###
 
