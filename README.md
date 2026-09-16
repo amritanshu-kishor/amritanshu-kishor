@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Amritanshu Kishor</h2>
 
 # About : 
-I am a 2nd Year undergraduate student at <a href="https://theoxford.edu/engineering/"><b>The Oxford College of Engineering, Bengaluru</b></a>, pursuing a Bachelor of Engineering in Computer Science. My academic interests revolve around Artificial Intelligence, Machine Learning, Data Structures, Algorithms, and research-driven innovation. <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="20px"/>
+I am a 3rd Year undergraduate student at <a href="https://theoxford.edu/engineering/"><b>The Oxford College of Engineering, Bengaluru</b></a>, pursuing a Bachelor of Engineering in Computer Science. My academic interests revolve around Artificial Intelligence, Machine Learning, Data Structures, Algorithms, and research-driven innovation. <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="20px"/>
 
 Currently, I am actively involved in AI-focused research and biomedical technology, including a published refractive index-based saliva biosensor project for early oral cancer detection. I enjoy combining analytical thinking with creativity to build meaningful solutions through AI, development, and data-driven systems. <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"/>
 
